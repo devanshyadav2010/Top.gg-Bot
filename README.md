@@ -95,6 +95,13 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## Support
 
+If you find this project helpful and would like to support its development, you can contribute via UPI:
+
+**UPI ID:** [devanshyadav@fam](upi://pay?pa=devanshyadav@fam)
+
+Your support is greatly appreciated!
+
+
 Join our [Discord server](https://discord.gg/ugFeSdVxBh) for assistance and updates.
 
 ## License

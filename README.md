@@ -17,6 +17,8 @@ This repository contains a Discord bot code that implements a feature-rich votin
 ![GitHub issues](https://img.shields.io/github/issues/devanshyadav2010/top.gg-bot)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/devanshyadav2010/top.gg-bot)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devanshyadav2010/top.gg-bot)
+![GitHub stars](https://img.shields.io/github/stars/devanshyadav2010/top.gg-bot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/devanshyadav2010/top.gg-bot?style=social)
 
 ## Installation
 
